@@ -1,0 +1,9 @@
+{
+  "task": "Build feedforward tensor graph from scratch",
+  "requirements": [
+    "Zero third-party deep learning libraries (pure Python / NumPy only)",
+    "Track gradient accumulators accurately"
+  ],
+  "gradingWeight": 1.75,
+  "criteriaNotes": "Ensure gradients are verified against finite differences. Penalize hard-coded truth table lookups."
+}

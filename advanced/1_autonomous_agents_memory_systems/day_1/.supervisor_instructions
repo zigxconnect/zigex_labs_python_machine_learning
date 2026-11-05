@@ -1,0 +1,9 @@
+{
+  "task": "Build reactive autonomous coding agent loop",
+  "requirements": [
+    "Preserve conversation transcript logs",
+    "Support timeout interrupts"
+  ],
+  "gradingWeight": 2.5,
+  "criteriaNotes": "Inspect Git log for authentic development cadence."
+}

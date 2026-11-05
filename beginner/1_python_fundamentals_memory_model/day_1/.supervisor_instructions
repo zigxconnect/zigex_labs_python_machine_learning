@@ -1,0 +1,10 @@
+{
+  "task": "Implement safe circular ring buffer",
+  "requirements": [
+    "Do not use external deque libraries",
+    "Include docstrings with complexity notations",
+    "Handle empty buffer pop with IndexError"
+  ],
+  "gradingWeight": 1,
+  "criteriaNotes": "Check commit history for incremental unit tests. Watch out for single-commit copy-paste from stackoverflow."
+}

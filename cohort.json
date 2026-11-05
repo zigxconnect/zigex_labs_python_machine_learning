@@ -1,0 +1,11 @@
+{
+  "organization": "Zigex Labs",
+  "cohort": "Summer 2026 Batch A",
+  "domain": "Python & Machine Learning",
+  "standard": "zila-cohort-prototype",
+  "tracks": [
+    "beginner",
+    "intermediate",
+    "advanced"
+  ]
+}
